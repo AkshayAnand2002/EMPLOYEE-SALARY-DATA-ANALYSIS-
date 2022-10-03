@@ -1,2 +1,2 @@
 # EMPLOYEE-SALARY-DATA-ANALYSIS-
-USED PYTHON PANDAS AND NUMPY.
+DATASET FROM KAGGLE ---> https://www.kaggle.com/datasets/kaggle/sf-salaries?resource=download
